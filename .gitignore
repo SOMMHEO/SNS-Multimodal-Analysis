@@ -1,0 +1,12 @@
+all_users_media_agg.parquet
+all_users_media.parquet
+all_users_profile.parquet
+all_users.parquet
+all_user_image_data.parquet
+all_users_media_prepro.parquet
+img_path_df.parquet
+inference_test.csv
+media_thumbnail_results.csv
+config/
+clip_cls_ckpt_train.pt
+clip_cls_ckpt.pt

@@ -107,7 +107,7 @@ class SSHMySQLConnector:
 
 def sendQuery(query):
         ssh = SSHMySQLConnector()
-        ssh.load_config_from_json('/home/flexmatch_ftp/ftp/multimodal_categorizer/config/accounts.json')
+        ssh.load_config_from_json('accounts.json')
         ssh.connect()
         results = ssh.execute_query(query)
         # print(results)
