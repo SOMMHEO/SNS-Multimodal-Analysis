@@ -10,3 +10,7 @@ media_thumbnail_results.csv
 config/
 clip_cls_ckpt_train.pt
 clip_cls_ckpt.pt
+projection.pt
+clip_fine_tuning/student_model_finetuned
+clip_fine_tuning/all_data_test.csv
+clip_fine_tuning/all_data.csv
