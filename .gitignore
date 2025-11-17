@@ -14,3 +14,6 @@ projection.pt
 clip_fine_tuning/student_model_finetuned
 clip_fine_tuning/all_data_test.csv
 clip_fine_tuning/all_data.csv
+clip_fine_tuning/student_model_finetuned_2
+clip_fine_tuning/all_data_test_2.csv
+clip_fine_tuning/all_daily_data_2.csv
