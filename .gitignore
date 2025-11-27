@@ -5,6 +5,7 @@ all_users.parquet
 all_user_image_data.parquet
 all_users_media_prepro.parquet
 img_path_df.parquet
+final_img_path_df.parquet
 inference_test.csv
 media_thumbnail_results.csv
 config/
@@ -17,3 +18,12 @@ clip_fine_tuning/all_data.csv
 clip_fine_tuning/student_model_finetuned_2
 clip_fine_tuning/all_data_test_2.csv
 clip_fine_tuning/all_daily_data_2.csv
+captions_results_english.parquet
+captions_results.jsonl
+final_caption_results_english.parquet
+qwen_emotion_captions.jsonl
+명세.txt
+gpt_results.csv
+llama3.1_8B_results.csv
+llama_emotion_df.parquet
+final_llama_emtion_df.parquet
