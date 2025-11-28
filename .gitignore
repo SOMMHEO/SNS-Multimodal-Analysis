@@ -22,6 +22,8 @@ captions_results_english.parquet
 captions_results.jsonl
 final_caption_results_english.parquet
 qwen_emotion_captions.jsonl
+qwen_emotion_captions_2.jsonl
+qwen_emotion_captions_3.jsonl
 명세.txt
 gpt_results.csv
 llama3.1_8B_results.csv
